@@ -8,7 +8,7 @@
   "server": {
     "ip": "RAZOR_SHROUD1.aternos.me",
     "port": 62428,
-    "version": "",
+    "version": "1.26.2",
     "try-creative": false
   },
   "position": {
