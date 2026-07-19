@@ -19,7 +19,7 @@
   },
   "utils": {
     "auto-auth": {
-      "enabled": true,
+      "enabled": false,
       "password": "chalol78"
     },
     "anti-afk": {
@@ -36,7 +36,7 @@
         "I like to play Minecraft!"
       ]
     },
-    "chat-log": false,
+    "chat-log": true,
     "auto-reconnect": false,
     "auto-reconnect-delay": 2000,
     "max-reconnect-delay": 120000
@@ -62,7 +62,7 @@
     "combat": true,
     "beds": false,
     "chat": false,
-    "console-commands": true
+    "console-commands": false
   },
   "combat": {
     "attack-mobs": true,
