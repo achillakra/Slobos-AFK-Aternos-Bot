@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "RAZOR_SHROUD1.aternos.me",
-    "port": 62428,
-    "version": "",
+    "ip": "graveyard.aternos.me",
+    "port": 24202,
+    "version": "1.21.11",
     "try-creative": false
   },
   "position": {
