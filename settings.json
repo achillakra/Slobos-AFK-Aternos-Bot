@@ -3,7 +3,7 @@
   "bot-account": {
     "username": "RazorBot",
     "password": "",
-    "type": "offline"
+    "type": "online"
   },
   "server": {
     "ip": "graveyard.aternos.me",
